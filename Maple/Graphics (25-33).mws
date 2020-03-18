@@ -1,0 +1,184 @@
+{VERSION 6 0 "Windows 10" "6.0" }
+{USTYLETAB {PSTYLE "Heading 1" -1 3 1 {CSTYLE "" -1 -1 "Times" 1 18 0
+ 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 4 2 0 2 0 2 2 -1 1 }{PSTYLE "War
+ning" -1 7 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0
+ 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Left Justified Maple Outp
+ut" -1 12 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 
+}1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Fixed Width" -1 17 1 {CSTYLE "
+" -1 -1 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 
+0 2 2 -1 1 }{PSTYLE "Help" -1 10 1 {CSTYLE "" -1 -1 "Courier" 1 9 0 0 
+255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Head
+ing 4" -1 20 1 {CSTYLE "" -1 -1 "Times" 1 10 0 0 0 1 1 1 2 2 2 2 1 0 0
+ 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Line Printed Output" -1 6 1
+ {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 
+0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 2" -1 4 1 {CSTYLE "" -1 -1 "T
+imes" 1 14 0 0 0 1 2 1 2 2 2 2 1 0 0 1 }1 1 0 0 8 2 2 0 2 0 2 2 -1 1 }
+{PSTYLE "Maple Output" -1 11 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Heading 3" 
+-1 5 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 1 0 0 1 }1 1 
+0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Diagnostic" -1 9 1 {CSTYLE "" -1 -1
+ "Courier" 1 10 64 128 64 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2
+ 2 -1 1 }{PSTYLE "Ordered List 1" -1 200 1 {CSTYLE "" -1 -1 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE 
+"Text Output" -1 2 1 {CSTYLE "" -1 -1 "Courier" 1 10 0 0 255 1 2 2 2 2
+ 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Ordered List 2" 
+-1 201 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 
+1 0 0 3 3 2 36 2 0 2 2 -1 1 }{PSTYLE "Ordered List 3" -1 202 1 {CSTYLE
+ "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 72 2
+ 0 2 2 -1 1 }{PSTYLE "Ordered List 4" -1 203 1 {CSTYLE "" -1 -1 "Times
+" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 108 2 0 2 2 -1 1 }
+{PSTYLE "Ordered List 5" -1 204 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 
+1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 144 2 0 2 2 -1 1 }{PSTYLE "Annota
+tion Title" -1 205 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 2 2 2 2
+ 1 0 0 1 }3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkError" -1 
+206 1 {CSTYLE "" -1 -1 "Courier New" 1 12 255 0 255 1 2 2 1 2 2 1 1 0 
+0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "HyperlinkWarning" -1 207 1
+ {CSTYLE "" -1 -1 "Courier New" 1 12 0 0 255 1 2 2 1 2 2 1 1 0 0 1 }1 
+1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Bullet Item" -1 15 1 {CSTYLE "" 
+-1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 2 
+2 -1 1 }{PSTYLE "Maple Plot" -1 13 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0
+ 0 1 2 2 2 2 2 2 1 0 0 1 }3 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "List \+
+Item" -1 14 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 
+1 }1 1 0 0 3 3 2 0 2 0 2 2 -1 1 }{PSTYLE "Dash Item" -1 16 1 {CSTYLE "
+" -1 -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 3 3 2 0 2 0 
+2 2 -1 1 }{PSTYLE "Error" -1 8 1 {CSTYLE "" -1 -1 "Courier" 1 10 255 0
+ 255 1 2 2 2 2 2 1 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 -1 1 }{PSTYLE "Tit
+le" -1 18 1 {CSTYLE "" -1 -1 "Times" 1 18 0 0 0 1 2 1 1 2 2 2 1 0 0 1 
+}3 1 0 0 12 12 2 0 2 0 2 2 -1 1 }{PSTYLE "Normal" -1 0 1 {CSTYLE "" -1
+ -1 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 1 0 0 1 }1 1 0 0 0 0 2 0 2 0 2 2 
+-1 1 }{PSTYLE "Author" -1 19 1 {CSTYLE "" -1 -1 "Times" 1 12 0 0 0 1 2
+ 2 2 2 2 2 1 0 0 1 }3 1 0 0 8 8 2 0 2 0 2 2 -1 1 }{CSTYLE "Help Variab
+le" -1 25 "Courier" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Un
+derlined Bold" -1 41 "Times" 1 12 0 0 0 1 1 1 2 2 2 2 0 0 0 1 }{CSTYLE
+ "Copyright" -1 34 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Maple Comment" -1 21 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }
+{CSTYLE "Popup" -1 31 "Times" 1 12 0 128 128 1 1 2 1 2 2 2 0 0 0 1 }
+{CSTYLE "Atomic Variable" -1 200 "Times" 1 12 175 0 175 1 1 2 2 2 2 2 
+0 0 0 1 }{CSTYLE "Dictionary Hyperlink" -1 45 "Times" 1 12 147 0 15 1 
+2 2 1 2 2 2 0 0 0 1 }{CSTYLE "Plot Text" -1 28 "Times" 1 8 0 0 0 1 2 2
+ 2 2 2 2 0 0 0 1 }{CSTYLE "2D Input" -1 19 "Times" 1 12 255 0 0 1 2 2 
+2 2 1 2 0 0 0 1 }{CSTYLE "Code" -1 201 "Courier New" 1 12 255 0 0 1 2 
+2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Italic" -1 3 "Times" 1 12 0 0 0 1 
+1 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Small" -1 7 "Times" 1 1 0 0 0 1 
+2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Bold Small" -1 10 "Times" 1 1 0 
+0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Bold" -1 39 "Times" 1 12 0 0 
+0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Menus" -1 36 "Times" 1 12 0 0 0
+ 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Heading" -1 26 "Times" 1 14 0 0 
+0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "2D Output" -1 20 "Times" 1 12 0 0 
+255 1 2 2 2 2 2 1 0 0 0 1 }{CSTYLE "2D Inert Output" -1 202 "Times" 1 
+12 144 144 144 1 2 2 2 2 1 2 0 0 0 1 }{CSTYLE "Help Normal" -1 30 "Tim
+es" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Input" -1 0 "Cour
+ier" 1 12 120 0 14 1 2 1 2 2 1 2 0 0 0 1 }{CSTYLE "Page Number" -1 33 
+"Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Header and Footer" 
+-1 203 "Times" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Ital
+ic Small204" -1 204 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "
+Help Fixed" -1 23 "Courier" 1 10 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE 
+"Output Labels" -1 29 "Times" 1 8 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE
+ "2D Math Italic Small205" -1 205 "Times" 1 1 0 0 0 1 1 2 2 2 2 2 0 0 
+0 1 }{CSTYLE "Help Notes" -1 37 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0
+ 1 }{CSTYLE "Help Underlined" -1 44 "Times" 1 12 0 0 0 1 2 2 1 2 2 2 0
+ 0 0 1 }{CSTYLE "2D Math Italic Small" -1 206 "Times" 1 1 0 0 0 1 1 2 
+2 2 2 2 0 0 0 1 }{CSTYLE "2D Math Symbol 2" -1 16 "Times" 1 12 0 0 0 1
+ 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "2D Math" -1 2 "Times" 1 12 0 0 0 1 2 2 
+2 2 2 2 0 0 0 1 }{CSTYLE "Help Nonterminal" -1 24 "Courier" 1 12 0 0 0
+ 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Annotation Text" -1 207 "Times" 1 12 
+0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Maple Name" -1 35 "Times" 1
+ 12 104 64 92 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Text" -1 208 "Times" 1 
+12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Plot Title" -1 27 "Times" 1 
+10 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Help Underlined Italic" -1 43
+ "Times" 1 12 0 0 0 1 1 2 1 2 2 2 0 0 0 1 }{CSTYLE "Caption Reference"
+ -1 209 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 1 }{CSTYLE "Default" -1
+ 38 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }{CSTYLE "Help Italic Bol
+d" -1 40 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0 1 }{CSTYLE "Maple Inpu
+t Placeholder" -1 210 "Courier New" 1 12 200 0 200 1 2 1 2 2 1 2 0 0 0
+ 1 }{CSTYLE "LaTeX" -1 32 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 0 0 1 }
+{CSTYLE "Help Emphasized" -1 22 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 0 0
+ 1 }{CSTYLE "Equation Label" -1 211 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0
+ 0 0 1 }{CSTYLE "2D Comment" -1 18 "Times" 1 12 0 0 0 1 2 2 2 2 2 2 0 
+0 0 1 }{CSTYLE "Help Italic" -1 42 "Times" 1 12 0 0 0 1 1 2 2 2 2 2 0 
+0 0 1 }{CSTYLE "Prompt" -1 1 "Courier" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 
+1 }{CSTYLE "2D Math Bold" -1 5 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 0 0 
+1 }{CSTYLE "Hyperlink" -1 17 "Times" 1 12 0 128 128 1 2 2 1 2 2 2 0 0 
+0 1 }{CSTYLE "Caption Text" -1 212 "Times" 1 12 0 0 0 1 2 1 2 2 2 2 0 
+0 0 1 }}
+{SECT 0 {SECT 1 {PARA 3 "" 0 "" {TEXT 213 3 "25O" }}{EXCHG {PARA 0 ">
+ " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 20 "f := x -> sin(x)
+/x:\n" }{MPLTEXT 1 0 74 "plot(f(x), x = -10..10, color = blue, adaptiv
+e = false, numpoints = 1000);" }}}}{SECT 1 {PARA 3 "" 0 "" {TEXT 213 
+3 "26O" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }
+{MPLTEXT 1 0 29 "r := x -> sin(x)*cos(3/2*x):\n" }{MPLTEXT 1 0 1 "\n" 
+}{MPLTEXT 1 0 77 "plot(r(x), x = 0..4*Pi, color = blue, coords = polar
+, scaling = constrained, " }{MPLTEXT 1 0 29 "view = [-0.6 .. 0.6, -1 .
+. 1]" }{MPLTEXT 1 0 2 ");" }}}}{SECT 1 {PARA 3 "" 0 "" {TEXT 213 3 "27
+A" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 
+0 22 "x := t -> t - sin(t):\n" }{MPLTEXT 1 0 22 "y := t -> 1 - cos(t):
+\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 65 "plot([x(t), y(t), t=0..6*Pi
+], color = blue, scaling=constrained);" }}}}{SECT 1 {PARA 3 "" 0 "" 
+{TEXT 213 3 "28B" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:
+\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 9 "N := 10:\n" }{MPLTEXT 1 0 
+23 "A := [[1, 1], [2, 1]]:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 21 "f
+or i from 3 to N do\n" }{MPLTEXT 1 0 4 "    " }{MPLTEXT 1 0 43 "A := [
+op(A), [i, A[i-1][2]+A[i-2][2]]]    \n" }{MPLTEXT 1 0 8 "end do:\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 67 "plot(A, style = point, symbol=ci
+rcle, symbolsize=10, color = blue);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 63 "fib
+ := n -> ( ((1+sqrt(5))/2)^n - ((1-sqrt(5))/2)^n )/sqrt(5):\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 9 "N := 10:\n" }{MPLTEXT 1 0 47 "A :
+= [seq([n, simplify(fib(n))], n = 0..N-1)]:\n" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 67 "plot(A, style = point, symbol=circle, symbolsize=10, \+
+color = blue);" }}}}{SECT 1 {PARA 3 "" 0 "" {TEXT 213 3 "29B" }}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 1 "
+\n" }{MPLTEXT 1 0 20 "f := x -> sin(x)/x:\n" }{MPLTEXT 1 0 18 "g := x \+
+-> cos(x):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 82 "plot([f(x), g(x)]
+, color = [blue, red], thickness=[5,1], linestyle=[solid, dash]);" }}}
+{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 1 "
+\n" }{MPLTEXT 1 0 32 "f := x -> -(x^2-4*x)/((x-2)^2):\n" }{MPLTEXT 1 
+0 1 "\n" }{MPLTEXT 1 0 23 "asymptote_x := x -> 2:\n" }{MPLTEXT 1 0 23 
+"asymptote_y := y -> y:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 97 "plot([f(x), [asymptote_x(t), asymptote_y(t), t=-4..8]
+], x=-4..8, y=-4..8, color = [blue, green]);" }}}}{SECT 1 {PARA 3 "" 0
+ "" {TEXT 213 3 "30A" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "resta
+rt:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 30 "r := (s,t) -> 4 + s*cos(
+t/2):\n" }{MPLTEXT 1 0 19 "phi := (s,t) -> t:\n" }{MPLTEXT 1 0 26 "h :
+= (s,t) -> s*sin(t/2):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 1 "\n" }
+{MPLTEXT 1 0 107 "plot3d([r(s,t), phi(s,t), h(s,t)], s=-Pi..Pi, t=0..P
+i*2, coords=cylindrical, color=yellow, numpoints=1000);" }}}}{SECT 1 
+{PARA 3 "" 0 "" {TEXT 213 3 "31B" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 9 "restart:\n" }{MPLTEXT 1 0 13 "with(plots):\n" }{MPLTEXT 1 0 1 "
+\n" }{MPLTEXT 1 0 8 "c := 1;\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 75 
+"implicitplot((x^2+y^2)^2=2*c^2*(x^2-y^2), x=-2..2, y=-2..2, numpoints
+=1000," }{MPLTEXT 1 0 14 " gridrefine=2," }{MPLTEXT 1 0 34 " color=blu
+e, scaling=constrained);" }}{PARA 13 "" 1 "" {TEXT 214 0 "" }}}{EXCHG 
+{PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }{MPLTEXT 1 0 13 "with(p
+lots):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 8 "c := 3;\n" }{MPLTEXT 
+1 0 1 "\n" }{MPLTEXT 1 0 72 "implicitplot(p^2=2*c^2*cos(2*phi), p=0..5
+, phi=0..2*Pi, numpoints=1000, " }{MPLTEXT 1 0 13 "gridrefine=2," }
+{MPLTEXT 1 0 1 " " }{MPLTEXT 1 0 11 "color=blue," }{MPLTEXT 1 0 36 " c
+oords=polar, scaling=constrained);" }}{PARA 13 "" 1 "" {TEXT 214 0 "" 
+}}}}{SECT 1 {PARA 3 "" 0 "" {TEXT 213 3 "32B" }}{EXCHG {PARA 0 "> " 0 
+"" {MPLTEXT 1 0 10 "?plottools" }}}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 
+1 0 9 "restart:\n" }{MPLTEXT 1 0 13 "with(plots):\n" }{MPLTEXT 1 0 17 
+"with(plottools):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 18 "ball_1 := \+
+proc(c)\n" }{MPLTEXT 1 0 41 "    sphere(c, 1, axes=none, coord=polar)
+\n" }{MPLTEXT 1 0 10 "end proc:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 
+27 "spiral_x := t -> cos(t)/t:\n" }{MPLTEXT 1 0 27 "spiral_y := t -> s
+in(t)/t:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 21 "ball_move := proc(t
+)\n" }{MPLTEXT 1 0 5 "    \n" }{MPLTEXT 1 0 60 "    local Ball := sphe
+re([spiral_x(t), spiral_y(t), 0], 1):\n" }{MPLTEXT 1 0 21 "       disp
+lay(Ball)\n" }{MPLTEXT 1 0 4 "   \n" }{MPLTEXT 1 0 10 "end proc:\n" }
+{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 45 "animate(ball_move, [t], t=1..10,
+ frames=100);" }}{PARA 13 "" 1 "" {TEXT 214 0 "" }}}{EXCHG {PARA 0 "> 
+" 0 "" {MPLTEXT 1 0 7 "?plot3d" }}}}{SECT 0 {PARA 3 "" 0 "" {TEXT 213 
+3 "33C" }}{EXCHG {PARA 0 "> " 0 "" {MPLTEXT 1 0 9 "restart:\n" }
+{MPLTEXT 1 0 13 "with(plots):\n" }{MPLTEXT 1 0 17 "with(plottools):\n"
+ }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 8 "a := 5:\n" }{MPLTEXT 1 0 8 "b :
+= 2:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 15 "x := a*cos(t):\n" }
+{MPLTEXT 1 0 15 "y := b*sin(t):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 
+80 "el := plot([x(t), y(t), t=0..Pi*2], color=[blue, blue], scaling = \+
+constrained):\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 20 "el_rot := proc
+(ang)\n" }{MPLTEXT 1 0 29 "    display(rotate(el, ang))\n" }{MPLTEXT 
+1 0 10 "end proc:\n" }{MPLTEXT 1 0 1 "\n" }{MPLTEXT 1 0 44 "animate(el
+_rot, [A], A=0..2*Pi, frames=300);" }}}{EXCHG {PARA 0 "> " 0 "" 
+{MPLTEXT 1 0 0 "" }}}}}
+{MARK "0 0 0" 0 }{VIEWOPTS 1 1 0 119 100 1803 1 1 1 1 }{PAGENUMBERS 0
+ 1 2 33 1 1 }
