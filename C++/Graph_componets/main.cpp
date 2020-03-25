@@ -23,17 +23,10 @@ void dfs(Graph const&, vector<uint>&, uint const, uint const, uint const);
 
 int main()
 {
-//    Graph graph;
-//    init_graph((graph));
-//    show(graph);
-    Graph graph; graph.resize(5);
+    Graph graph;
+    init_graph((graph));
 
-    add_edge(graph, 0, 1);
-    add_edge(graph, 1, 2);
-    add_edge(graph, 2, 3);
-    add_edge(graph, 3, 4);
-
-    cout << "The origin graph: ";
+    cout << "The origin graph: " << endl;
     show(graph);
 
     Components origin_g = find_comps(graph);
