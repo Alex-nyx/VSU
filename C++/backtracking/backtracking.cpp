@@ -29,17 +29,15 @@ Point operator/(const Point& p, int d)
 {
     return Point{p.x/d, p.y/d, p.z/d};
 }
-
-int prod(Point p, Point q)
+Point operator*(const Point& p, const Point& q)
 {
     return p.x*q.x + p.y*q.y + p.z*q.z;
 }
 
 unsigned norm(Point p)
 {
-    return prod(p, p);
+    return p*p;
 }
-
 
 void print(Point const& p)
 {
