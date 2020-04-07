@@ -15,10 +15,10 @@ void add_edge(Graph&, uint const, uint const);
 void show(Graph const&);
 void show_components(Components const&);
 
-Components find_comps(Graph const&);
+//Components find_comps(Graph const&);
 Components find_comps(Graph const&, uint const);
 
-void dfs(Graph const&, vector<uint>&, uint const, uint const);
+//void dfs(Graph const&, vector<uint>&, uint const, uint const);
 void dfs(Graph const&, vector<uint>&, uint const, uint const, uint const);
 
 int main()
@@ -29,7 +29,7 @@ int main()
     cout << "The origin graph: " << endl;
     show(graph);
 
-    Components origin_g = find_comps(graph);
+    Components origin_g = find_comps(graph, -1);
     cout << endl << "The connected components in origin graph:" << endl;
     show_components(origin_g);
 
@@ -47,6 +47,7 @@ int main()
     cin.get();
 }
 
+/*
 void dfs(Graph const& graph, vector<uint>& used, uint const vertex, uint const comps_cnt)
 {
     used[vertex] = comps_cnt;
@@ -59,6 +60,7 @@ void dfs(Graph const& graph, vector<uint>& used, uint const vertex, uint const c
         }
     }
 }
+*/
 
 void dfs(Graph const& graph, vector<uint>& used, uint const vertex, uint const comps_cnt, uint const vertex_to_skip)
 {
@@ -76,7 +78,7 @@ void dfs(Graph const& graph, vector<uint>& used, uint const vertex, uint const c
         }
     }
 }
-
+/*
 Components find_comps(Graph const& graph)
 {
     vector<uint> used(graph.size());
@@ -99,7 +101,7 @@ Components find_comps(Graph const& graph)
 
     return comps;
 }
-
+*/
 Components find_comps(Graph const& graph, uint const vertex_to_skip)
 {
     vector<uint> used(graph.size());
@@ -118,10 +120,6 @@ Components find_comps(Graph const& graph, uint const vertex_to_skip)
     }
 
     Components comps(comps_cnt);
-
-//    cout << "\nUsed:\n";
-//    for (auto x : used)
-//        cout << x << endl;
 
     for(uint vertex = 0; vertex < graph.size(); ++vertex)
     {
