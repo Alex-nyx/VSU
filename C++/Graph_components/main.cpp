@@ -37,7 +37,7 @@ int main()
     {
         Components comps = find_comps(graph, vertex_to_skip);
 
-        if(comps.size() >= origin_g.size())
+        if(comps.size() > origin_g.size())
         {
             cout << endl << "The connected components in graph without vertex <" << vertex_to_skip << ">" << endl;
             show_components(comps);
